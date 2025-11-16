@@ -39,6 +39,11 @@ Follow these steps to run SKUA locally or in development/production environments
 ### 1. Clone the Repository
 
 git clone https://github.com/Terniqs-Denny/Skua.git
+
+
+
+
+
 cd skua
 
 #### If using branches:
