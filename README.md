@@ -92,9 +92,13 @@ Example variables are referenced in settings but **not included in this README**
 Update your environment variables with your PostgreSQL settings:
 
 DB_NAME
+
 DB_USER
+
 DB_PASSWORD
+
 DB_HOST
+
 DB_PORT
 
 Then run:
